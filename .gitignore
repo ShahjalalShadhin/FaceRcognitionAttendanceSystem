@@ -1,0 +1,20 @@
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# PyCharm project settings
+.idea/
+
+# macOS system files
+.DS_Store
+
+# Logs
+*.log
+# Ignore secret keys
+serviceAccountKey.json
+
